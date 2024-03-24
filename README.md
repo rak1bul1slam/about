@@ -1,1 +1,7 @@
-# about
+- 👋 Hi, I’m Rakibul Islam
+- 👀 I’m interested in blockchain and cybersecurity 
+- 🌱 I’m currently learning C/C++, Python, Java 
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me : X(formerly Twitter)/@rak1bul1slam
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: Always busy on screen 
